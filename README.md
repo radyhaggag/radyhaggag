@@ -25,14 +25,25 @@
 ## Connect With Me
 
 <p align="center">
-  <a href="https://radyhaggag.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/radyhaggag/">
     <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b4ea2" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/radyhaggag">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub" />
+  <a href="mailto:radydev5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-radydev5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B3261E" alt="Email" />
+  </a>
+  <a href="https://wa.me/201030096242">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1DA851" alt="WhatsApp" />
+  </a>
+</p>
+
+## CV
+
+<p align="center">
+  <a href="https://github.com/radyhaggag/radyhaggag/blob/main/assets/cv/Rady_Haggag_Flutter_Developer_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-View%20Online-111827?style=for-the-badge&logo=readme&logoColor=white" alt="View CV" />
+  </a>
+  <a href="https://raw.githubusercontent.com/radyhaggag/radyhaggag/main/assets/cv/Rady_Haggag_Flutter_Developer_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-Download-0ea5e9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
   </a>
 </p>
 
@@ -56,7 +67,7 @@
 
 ## CI/CD, Testing, and Integration
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/features/actions" title="GitHub Actions">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   </a>
