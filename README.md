@@ -39,8 +39,8 @@
 ## CV
 
 <p align="center">
-  <a href="https://github.com/radyhaggag/radyhaggag/blob/main/assets/cv/Rady_Haggag_Flutter_Developer_CV.pdf">
-    <img src="https://img.shields.io/badge/CV-View%20Online-111827?style=for-the-badge&logo=readme&logoColor=white" alt="View CV" />
+  <a href="https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/radyhaggag/radyhaggag/main/assets/cv/Rady_Haggag_Flutter_Developer_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-View%20Online-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Preview CV" />
   </a>
   <a href="https://raw.githubusercontent.com/radyhaggag/radyhaggag/main/assets/cv/Rady_Haggag_Flutter_Developer_CV.pdf">
     <img src="https://img.shields.io/badge/CV-Download-0ea5e9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
