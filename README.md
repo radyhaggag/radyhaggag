@@ -7,8 +7,14 @@
   <a href="https://github.com/radyhaggag?tab=followers">
     <img src="https://img.shields.io/github/followers/radyhaggag?label=FOLLOWERS&style=for-the-badge&color=2563eb" alt="GitHub followers" />
   </a>
+  <a href="https://www.linkedin.com/in/radyhaggag/">
+    <img src="https://img.shields.io/badge/OPEN%20TO-WORK-16a34a?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" />
+  </a>
   <a href="https://radyhaggag.netlify.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/radyhaggag/radyhaggag/main/assets/cv/Rady_Haggag_Flutter_Developer_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-VIEW%20NOW-111827?style=for-the-badge&logo=readme&logoColor=white" alt="View CV" />
   </a>
 </p>
 
