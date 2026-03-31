@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Rady%20Haggag&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer&descSize=18&descAlignY=57" />
+<a href="https://github.com/radyhaggag">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Rady%20Haggag&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer&descSize=18&descAlignY=57" />
+</a>
 
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=radyhaggag&label=PROFILE%20VIEWS&color=0f172a&style=for-the-badge" alt="Profile views" /> -->
