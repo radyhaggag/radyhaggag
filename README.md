@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/radyhaggag/">
     <img src="https://img.shields.io/badge/OPEN%20TO-WORK-16a34a?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" />
   </a>
-  <a href="https://radyhaggag.netlify.app/">
+  <a href="https://radyhaggag.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/radyhaggag/radyhaggag/main/assets/cv/Rady_Haggag_Flutter_Developer_CV.pdf">
