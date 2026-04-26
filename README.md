@@ -13,7 +13,7 @@
   <a href="https://radyhaggag.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/radyhaggag/radyhaggag/main/assets/cv/Rady_Haggag_Flutter_Developer_CV.pdf">
+  <a href="https://radyhaggag.vercel.app/cv">
     <img src="https://img.shields.io/badge/CV-VIEW%20NOW-111827?style=for-the-badge&logo=readme&logoColor=white" alt="View CV" />
   </a>
 </p>
@@ -45,7 +45,7 @@
 ## CV
 
 <p align="center">
-  <a href="https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/radyhaggag/radyhaggag/main/assets/cv/Rady_Haggag_Flutter_Developer_CV.pdf">
+  <a href="https://radyhaggag.vercel.app/cv">
     <img src="https://img.shields.io/badge/CV-View%20Online-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Preview CV" />
   </a>
   <a href="https://raw.githubusercontent.com/radyhaggag/radyhaggag/main/assets/cv/Rady_Haggag_Flutter_Developer_CV.pdf">
